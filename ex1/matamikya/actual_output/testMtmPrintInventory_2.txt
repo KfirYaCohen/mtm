@@ -1,0 +1,15 @@
+Inventory Status:
+name: Tomato, id: 4, amount: 2019.110, price: 8.900
+name: Onion, id: 6, amount: 1789.750, price: 5.800
+name: Watermelon, id: 7, amount: 24.500, price: 18.500
+name: Television, id: 10, amount: 15.000, price: 2000.000
+name: Television, id: 11, amount: 4.000, price: 5000.000
+name: Iphone, id: 90, amount: 1.501, price: 5200.700
+name: Kinder, id: 111, amount: 1.500, price: 520.700
+name: Blue, id: 114, amount: 1.000, price: 96.800
+name: Red Bull, id: 115, amount: 1.001, price: 700.000
+name: Monster, id: 116, amount: 1.999, price: 123.000
+name: Magnum White, id: 121, amount: 12.000, price: 566666.901
+name: Magnum Black, id: 122, amount: 12.001, price: 4444.444
+name: Magnum classic, id: 123, amount: 11.999, price: 123.000
+name: Melki, id: 1000, amount: 1.499, price: 5200.700

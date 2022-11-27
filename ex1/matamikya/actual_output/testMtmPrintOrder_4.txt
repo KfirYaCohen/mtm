@@ -1,0 +1,7 @@
+Order 4 Details:
+name: Tomato, id: 4, amount: 0.500, price: 4.450
+name: Onion, id: 6, amount: 0.400, price: 2.320
+name: Television, id: 10, amount: 4.000, price: 8000.000
+name: Iphone, id: 90, amount: 1.000, price: 5200.000
+----------
+Total Price: 13206.770

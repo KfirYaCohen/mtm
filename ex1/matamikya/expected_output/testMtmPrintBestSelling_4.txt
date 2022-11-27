@@ -1,0 +1,2 @@
+Best Selling Product:
+name: Magnum White, id: 121, total income: 3400001.400
